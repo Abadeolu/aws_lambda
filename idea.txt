@@ -1,1 +1,2 @@
 Update ideas on how to inplement this here:
+a small, single-expression function defined without a name
